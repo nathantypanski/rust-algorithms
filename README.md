@@ -1,4 +1,4 @@
-# Algorithms in Rust
+# Algorithms in Rust [![build-status](https://travis-ci.org/nathantypanski/rust-algorithms.svg?branch=master)](https://travis-ci.org/nathantypanski/rust-algorithms/builds)
 
 Selected algorithm implementations from CLRS.
 
