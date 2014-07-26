@@ -6,4 +6,4 @@ authors = [ "Nathan Typanski" ]
 
 [[lib]]
 name = "algo"
-path = "src/algo/lib.rs"
+path = "src/lib.rs"
