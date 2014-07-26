@@ -4,8 +4,8 @@ Selected algorithm implementations from CLRS.
 
 ## Sorting
 
-- [x] insertion sort (pg 18)
-- [x] selection sort (pg 29)
+- [x] [insertion sort](src/sorting/insertion.rs) (pg 18)
+- [x] [selection sort](src/sorting/selection.rs) (pg 29)
 - [ ] merge sort (pg 31)
 - [ ] bubblesort (pg 40)
 - [ ] heapsort (pg 40)
